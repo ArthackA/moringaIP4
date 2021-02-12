@@ -6,7 +6,7 @@ columns.
 A thorough cleaning of the dataset in done so as to compose it into a usable dataset. 
 I have used pandas and numpy libraries to wrangle into the dataset and identify various issues with data and rectifying them
 using python and pandas.
-The above Notebook contain various actions i have performed in the dataset to help me understand and preparare the dataset
+The above Notebook contain various actions i have performed in the dataset to help me understand and prepare the dataset
 for analysis and evaluation.
 
 This repository also consist of the report that explain into details the various stages of CRISP-DM that i have used to 
