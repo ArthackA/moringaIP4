@@ -8,3 +8,6 @@ I have used pandas and numpy libraries to wrangle into the dataset and identify 
 using python and pandas.
 The above Notebook contain various actions i have performed in the dataset to help me understand and preparare the dataset
 for analysis and evaluation.
+
+This repository also consist of the report that explain into details the various stages of CRISP-DM that i have used to 
+formulate a solution towards the research problem.
