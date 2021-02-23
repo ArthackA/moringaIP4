@@ -1,9 +1,9 @@
 # moringaIP4
-**Electric car share Data analysis in Paris
+**Electric car share Data analysis in Paris **
     
     From the dataset and the research question for this project it requires the data scientist to process stations     data to understand electric car usage over time by solving for the following questions,The research aims at          discovering the usage of electric car per station in city of Paris,the following questions will assist in         coming up with a guide from analysis to help make the right decision at the end and be able to give a               recommendation
     
-** Methodology Used 
+** Methodology Used **
     
     In this project CRISP-DM methodology is used to guide with the process so as to achieve the intended goal which     is helping the telcom company to strategize on upgrading their infrastructure.
     The used stages/phases of CRISP-DM in this project includes:
@@ -15,7 +15,7 @@
     e). Recommendation 
     f). Conclusion
     
-** Technologies Used
+** Technologies Used **
     
       The tech used in this project are as follows:
       a). Python - Best data analysis programming Language
@@ -25,9 +25,9 @@
       d). Scikit-Learn - It provides a selection of efficient tools for machine learning and statistical modeling
           including classification,
           regression, clustering and dimensionality reduction via a consistence interface in Python.
-**Lincensed By:
+**Lincensed By:**
     
     Moringa School of data science.
-** Committed By:
+** Committed By: **
     
     @ArthackA
