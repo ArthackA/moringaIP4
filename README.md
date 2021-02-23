@@ -1,7 +1,8 @@
 # moringaIP4
-**Electric car share Data analysis in Paris **
-    
-     From the dataset and the research question for this project it requires the data scientist to process stations data to understand electric car usage over time by solving for the following questions,The research aims at discovering the usage of electric car per station in city of Paris,the following questions will assist in coming up with a guide from analysis to help make the right decision at the end and be able to give a recommendation
+
+**Electric car share Data analysis in Paris 
+
+        From the dataset and the research question for this project it requires the data scientist to process stations data to understand electric car usage over time by solving for the following questions,The research aims at discovering the usage of electric car per station in city of Paris,the following questions will assist in coming up with a guide from analysis to help make the right decision at the end and be able to give a recommendation
     
 ** Methodology Used **
     
